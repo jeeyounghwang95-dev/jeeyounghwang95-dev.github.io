@@ -23,12 +23,12 @@ repository               : "jeeyounghwang95-dev/jeeyounghwang95-dev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # TODO: 채우기 - 프로필 이미지 파일을 images/ 에 추가하고 파일명 지정
+  avatar           : "profile.jpg"
   name             : "Jeeyoung Hwang"
   pronouns         : # example: "she/her"
   bio              : # TODO: 채우기 - 사이드바용 짧은 소개 문구
   location         : "Seoul, South Korea"
-  employer         : "PhD Student in Computer Education, Seoul National University of Education"
+  employer         : "PhD Student in Computer Science Education, Seoul National University of Education"
   uri              : # TODO: 채우기 - 개인 웹사이트 URL (있는 경우)
   email            : # TODO: 채우기 - 이메일 주소
 

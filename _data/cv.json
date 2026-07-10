@@ -4,7 +4,7 @@
     "email": "TODO_채우기@example.org",
     "phone": "",
     "website": "https://jeeyounghwang95-dev.github.io",
-    "summary": "PhD student in Computer Education at Seoul National University of Education. TODO: 채우기 - 한 문장 요약",
+    "summary": "PhD student in Computer Science Education at Seoul National University of Education. TODO: 채우기 - 한 문장 요약",
     "location": {
       "address": "",
       "postalCode": "",
@@ -51,7 +51,7 @@
   "education": [
     {
       "institution": "Seoul National University of Education",
-      "area": "Computer Education",
+      "area": "Computer Science Education",
       "studyType": "PhD",
       "startDate": "2026-03-01",
       "endDate": "",
@@ -60,7 +60,7 @@
     },
     {
       "institution": "Seoul National University of Education",
-      "area": "Computer Education",
+      "area": "Computer Science Education",
       "studyType": "M.S.",
       "startDate": "2022-03-01",
       "endDate": "2025-08-01",

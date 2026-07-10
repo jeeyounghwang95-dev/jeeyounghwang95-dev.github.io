@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Education, Seoul National University of Education (서울교육대학교), 2026.3 - present
-* M.S. in Computer Education, Seoul National University of Education (서울교육대학교), 2022.3 - 2025.8
+* PhD in Computer Science Education, Seoul National University of Education (서울교육대학교), 2026.3 - present
+* M.S. in Computer Science Education, Seoul National University of Education (서울교육대학교), 2022.3 - 2025.8
 * B.A. in English Education, Seoul National University of Education, 2014 - 2019
 * Exchange student, National Taichung University of Education (Taiwan), 2016
 
