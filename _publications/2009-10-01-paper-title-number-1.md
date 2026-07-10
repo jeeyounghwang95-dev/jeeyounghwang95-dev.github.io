@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 1"
+# TODO: 이 파일은 구조 참고용 예시입니다. 실제 논문이 생기면 이 파일을 복사해서
+# 새 파일(예: YYYY-MM-DD-title.md)로 만들고 아래 값들을 채우세요.
+# 이 파일 자체는 최종 게시 전에 삭제하거나 permalink가 겹치지 않게 주의하세요.
+title: "TODO: 논문 제목"
+published: false # 이 예시 파일은 빌드에서 제외됩니다. 실제 항목을 만들 때는 이 줄을 삭제하세요.
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: manuscripts # manuscripts(저널) / conferences(학회) / books 중 선택
+permalink: /publication/TODO-permalink-slug
+excerpt: 'TODO: 한두 문장 요약'
+date: 1900-01-01 # TODO: 실제 게재일
+venue: 'TODO: 저널/학회명'
+slidesurl: # TODO: 슬라이드 URL (선택)
+paperurl: # TODO: 논문 PDF/링크
+bibtexurl: # TODO: BibTeX URL (선택)
+citation: 'TODO: 인용 형식 (저자, 연도, 제목, 저널/학회, 권/호)'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+TODO: 논문에 대한 상세 설명 (선택 사항, 없으면 이 문단 삭제)

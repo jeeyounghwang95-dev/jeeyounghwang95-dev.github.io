@@ -225,6 +225,52 @@
   </div>
   {% endif %}
   
+  {% if cv.service.size > 0 %}
+  <!-- Service -->
+  <div class="cv-section">
+    <h2>Service</h2>
+    <ul class="cv-list">
+      {% for item in cv.service %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ item.role }}</div>
+          <div class="cv-item-date">{{ item.date }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ item.organization }}</div>
+          {% if item.description %}
+          <div class="cv-item-detail">{{ item.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if cv.activities.size > 0 %}
+  <!-- Activities -->
+  <div class="cv-section">
+    <h2>Activities</h2>
+    <ul class="cv-list">
+      {% for item in cv.activities %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ item.name }}</div>
+          <div class="cv-item-date">{{ item.date }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ item.organization }}</div>
+          {% if item.description %}
+          <div class="cv-item-detail">{{ item.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if cv.portfolio.size > 0 %}
   <!-- Portfolio -->
   <div class="cv-section">

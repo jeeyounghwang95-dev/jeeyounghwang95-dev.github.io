@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jeeyoung Hwang",
+    "email": "TODO_채우기@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jeeyounghwang95-dev.github.io",
+    "summary": "PhD student in Computer Education at Seoul National University of Education. TODO: 채우기 - 한 문장 요약",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Seoul",
+      "countryCode": "KR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "TODO_채우기"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "TODO_채우기"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jeeyounghwang95-dev",
+        "url": "https://github.com/jeeyounghwang95-dev"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Seoul Jamil Elementary School (서울잠일초등학교)",
+      "position": "Elementary School Teacher",
+      "startDate": "2020-03-01",
+      "endDate": "",
+      "summary": "Future Education (AI/SW Education) Coordinator; AI/Information-centered Leading School Coordinator (2024, 2025)",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Seoul National University of Education",
+      "area": "Computer Education",
+      "studyType": "PhD",
+      "startDate": "2022-03-01",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Seoul National University of Education",
+      "area": "English Education",
+      "studyType": "B.A.",
+      "startDate": "2014",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
@@ -64,89 +64,32 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "TODO: 채우기 - 상세 항목은 /cv/ 페이지의 Teaching Experience 참고",
+      "institution": "",
+      "date": "2023",
+      "role": "Instructor",
+      "description": "TODO: /cv/ 페이지의 전체 목록을 참고해 필요한 항목만 옮기거나 이 배열을 확장하세요."
     }
   ],
-  "portfolio": [
+  "service": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "role": "Teacher Research Group Member / Advisory & Review Committee Member",
+      "organization": "TODO: 채우기 - 상세 항목은 /cv/ 페이지의 Service and leadership 참고",
+      "date": "2023-2025",
+      "description": "TODO: /cv/ 페이지의 전체 목록을 참고해 필요한 항목만 옮기거나 이 배열을 확장하세요."
     }
-  ]
+  ],
+  "activities": [
+    {
+      "name": "TODO: 채우기 - 상세 항목은 /cv/ 페이지의 Activities 참고",
+      "organization": "",
+      "date": "2023-2025",
+      "description": "TODO: /cv/ 페이지의 전체 목록을 참고해 필요한 항목만 옮기거나 이 배열을 확장하세요."
+    }
+  ],
+  "portfolio": []
 }
