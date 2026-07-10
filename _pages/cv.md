@@ -28,20 +28,29 @@ Work experience
   * 2024 AI/Information-centered Leading School Coordinator
   * 2024 "Exciting AI Classroom" School Coordinator
 
-Skills
+Research
 ======
-<!-- TODO: 채우기 -->
+<!-- TODO: 검토/보완 -->
+* 2026.4 - 2026.8: "Building a Support System for Student Career-Design Competency to Cultivate Future Talent in the AI Era"
+  * Funding/Commissioning Agency: Korea Educational Development Institute (KEDI)
+  * Role: Research Assistant
+  * Keywords: Future competencies in the AI era, Career-design competency
+  * Description: Established the philosophical direction and policy design principles for cultivating future talent in the AI era; defined core competencies for future talent and modeled student career-design competency.
+* 2026.5 - 2026.12: "CORE LAB: Informatics Teacher Research Group"
+  * Funding/Commissioning Agency: Korea Foundation for the Advancement of Science and Creativity (KOFAC)
+  * Role: Principal Investigator
+  * Keywords: Physical AI education, AI literacy education
+  * Description: Building a research ecosystem for AI education among informatics teachers; preparatory research for advancing from physical computing education to physical AI education.
+* 2026.6 - 2026.8: "Development of Supplementary Learning Materials for Elementary Informatics Education"
+  * Funding/Commissioning Agency: Korea Foundation for the Advancement of Science and Creativity (KOFAC)
+  * Role: Co-Investigator
+  * Keywords: Informatics education, Informatics textbooks
+  * Description: Developed supplementary learning materials to address learning gaps in 6th-grade elementary informatics education arising from the phased implementation of the 2022 Revised National Curriculum.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching Experience
