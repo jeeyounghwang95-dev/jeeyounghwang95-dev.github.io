@@ -1,45 +1,45 @@
 ---
 title: "roboHand"
-excerpt: "VLA(Vision-Language-Action) 모델의 한계를 체험하는 Unity 3D 로봇 팔 조작 게임<br/><img src='/images/robohand-screenshot.png'>"
+excerpt: "A Unity 3D robot-arm game that teaches the real-world limitations of Vision-Language-Action (VLA) models through gameplay<br/><img src='/images/robohand-screenshot.png'>"
 collection: portfolio
 ---
 
 ![roboHand gameplay](/images/robohand-screenshot.png)
 
-## 개요
-roboHand는 Unity 엔진으로 개발한 1인칭 로봇 팔 조작 시뮬레이션 게임으로, VLA(Vision-Language-Action) 모델이 실제로 겪는 핵심 과제 — 모호한 자연어 명령 해석, 시각적 혼동, 촉각 정보 부재로 인한 파지력(grip force) 추론 한계 — 를 게이미피케이션 방식으로 체험·학습할 수 있도록 설계했습니다.
+## Overview
+roboHand is a first-person robot-arm manipulation game built in Unity, designed to let players experience — through gamification — the core challenges real VLA (Vision-Language-Action) models face: ambiguous natural-language instructions, visual confusion between similar objects, and the lack of tactile feedback when inferring grip force.
 
-피지컬 AI·로봇 분야에서 VLA 모델의 중요성이 커지고 있지만, 이를 직관적으로 이해할 수 있는 교육 도구는 부족하고, 기존 로봇 교육은 하드웨어 비용과 안전 문제로 접근성이 낮으며, 시뮬레이터 기반 교육은 학습 동기 부여가 약하다는 한계가 있습니다. roboHand는 이러한 문제를 게임 메커닉으로 풀어낸 프로젝트입니다.
+VLA models are becoming increasingly important in physical AI and robotics, yet intuitive educational tools for understanding them are scarce. Traditional robotics education has low accessibility due to hardware cost and safety concerns, and simulator-based education often struggles with learner motivation. roboHand tackles this gap through game mechanics.
 
-## 기술 스택
-- **엔진**: Unity
-- **언어**: C#
-- **입력 처리**: Unity Input System
+## Tech Stack
+- **Engine**: Unity
+- **Language**: C#
+- **Input**: Unity Input System
 
-## 게임 개요
-- 플레이어가 키보드(방향키·스페이스·Z/X)로 로봇 팔의 XZ 이동, 수직 집기 동작, 그리퍼 힘을 직접 제어
-- 총 9개 미션으로 구성, 미션당 30초 제한 / 성공 +100점, 실패 -30점
+## Gameplay
+- Players control the robot arm's XZ movement, vertical pick-up motion, and gripper force directly via keyboard (arrow keys, spacebar, Z/X)
+- 9 missions total, each with a 30-second time limit — +100 points on success, -30 on failure
 
-## 게임 메커닉과 VLA 개념의 대응
-| 게임 요소 | 대응하는 VLA 과제 |
+## Game Mechanics Mapped to VLA Concepts
+| Game Element | Corresponding VLA Challenge |
 |---|---|
-| 모호한 자연어 미션 텍스트 (예: "빨간 과일 집어서 빨간 그릇에") | 언어 모호성 / 지시 해석 |
-| 유사 색상·형태 물체 혼재 (사과/석류/망고, 브로콜리/아티초크 등) | 시각적 객체 분류 한계 |
-| 조명 페이즈 변화 (낮→저녁→석양→밤) | 환경 변화에 따른 인식 불변성 문제 |
-| 그리퍼 힘 조절 (너무 약하면 미끄러짐, 강하면 찌그러짐) | 촉각 없는 파지력 제어 한계 |
-| 성공 후 VLA 인사이트 팝업 | 개념 설명 및 메타인지 유도 |
+| Ambiguous natural-language mission text (e.g., "Put the red fruit in the red bowl") | Language ambiguity / instruction interpretation |
+| Mixed objects with similar color/shape (apple/pomegranate/mango, broccoli/artichoke, etc.) | Visual object-classification limits |
+| Lighting phase changes (day → evening → sunset → night) | Recognition invariance under changing environments |
+| Gripper force control (too weak = slips, too strong = crushes) | Grip-force control without tactile input |
+| VLA insight popup shown after success | Concept explanation and metacognitive reflection |
 
-## 교육적 설계 요소
-- 색·형태·재질 혼동을 유발하는 미션 풀을 통해 VLA 실패 사례를 직접 체험하도록 설계
-- 실패 시 원인(잘못된 물체/그릇)을 안내하고 재시도를 허용하는 즉각 피드백 루프로 학습자가 VLA의 실수 원인을 스스로 유추하도록 유도
-- 조명 변화를 매 2미션마다 진행시켜 동일 물체도 환경에 따라 다르게 인식될 수 있음을 체험
+## Educational Design
+- A mission pool built around color, shape, and material confusion lets players directly experience real VLA failure modes
+- An immediate feedback loop — explaining the cause of failure (wrong object/bowl) and allowing retries — helps learners infer for themselves why a VLA model might make mistakes
+- Lighting shifts every two missions so the same object can be perceived differently depending on the environment
 
-## 활용 가능성
-로봇 실물 없이도 VLA 모델의 작동 원리와 한계를 직관적으로 이해할 수 있는 저비용 교육 도구로, 실제 VLA 추론 엔진과의 연동을 통해 인간-AI 판단 비교 학습 플랫폼으로 발전시킬 수 있습니다.
+## Potential Applications
+A low-cost way to build intuition for how VLA models work and where they fail, without needing physical robots — and one that could be extended into a human-vs-AI comparison learning platform by integrating an actual VLA inference engine.
 
-## 나의 역할
-- Unity 기반 게임 시스템 전체 설계 및 구현 (로봇 팔 컨트롤, 그리퍼 물리, 미션/게임 상태 관리)
-- VLA 교육 개념을 게임 메커닉으로 매핑하는 콘텐츠·연구 설계
+## My Role
+- Designed and implemented the full Unity game system (robot-arm control, gripper physics, mission/game state management)
+- Designed the content and research mapping VLA education concepts onto game mechanics
 
-## 링크
+## Links
 - [GitHub](https://github.com/jeeyounghwang95-dev/roboHand)
