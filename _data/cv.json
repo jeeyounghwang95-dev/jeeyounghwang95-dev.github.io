@@ -32,10 +32,18 @@
   },
   "work": [
     {
+      "company": "Seoul Haenuri Elementary School (서울해누리초등학교)",
+      "position": "Elementary School Teacher",
+      "startDate": "2026-03-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "company": "Seoul Jamil Elementary School (서울잠일초등학교)",
       "position": "Elementary School Teacher",
       "startDate": "2020-03-01",
-      "endDate": "",
+      "endDate": "2026-02-28",
       "summary": "Future Education (AI/SW Education) Coordinator; AI/Information-centered Leading School Coordinator (2024, 2025)",
       "highlights": []
     }
@@ -45,8 +53,17 @@
       "institution": "Seoul National University of Education",
       "area": "Computer Education",
       "studyType": "PhD",
-      "startDate": "2022-03-01",
+      "startDate": "2026-03-01",
       "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Seoul National University of Education",
+      "area": "Computer Education",
+      "studyType": "M.S.",
+      "startDate": "2022-03-01",
+      "endDate": "2025-08-01",
       "gpa": null,
       "courses": []
     },

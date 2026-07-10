@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+[한국어로 보기](/ko/){: .btn .btn--small}
+
 <!-- TODO: 채우기 - 한두 문단 분량의 자기소개 (배경, 관심 계기 등) -->
 
 PhD student in Computer Education at Seoul National University of Education (서울교육대학교).

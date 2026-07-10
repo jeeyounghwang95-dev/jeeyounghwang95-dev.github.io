@@ -7,18 +7,21 @@ redirect_from:
   - /resume
 ---
 
+[한국어로 보기](/ko/cv/){: .btn .btn--small}
+
 {% include base_path %}
 
 Education
 ======
-<!-- TODO: 확인/보완 - 정확한 월/연도, 학위명 등 -->
-* PhD in Computer Education, Seoul National University of Education (서울교육대학교), 2022.3 - present
+* PhD in Computer Education, Seoul National University of Education (서울교육대학교), 2026.3 - present
+* M.S. in Computer Education, Seoul National University of Education (서울교육대학교), 2022.3 - 2025.8
 * B.A. in English Education, Seoul National University of Education, 2014 - 2019
 * Exchange student, National Taichung University of Education (Taiwan), 2016
 
 Work experience
 ======
-* 2020.3 - present: Elementary School Teacher, Seoul Jamil Elementary School (서울잠일초등학교)
+* 2026.3 - present: Elementary School Teacher, Seoul Haenuri Elementary School (서울해누리초등학교)
+* 2020.3 - 2026.2: Elementary School Teacher, Seoul Jamil Elementary School (서울잠일초등학교)
   * 2025: Grade 4 Homeroom Teacher
   * Future Education (AI/SW Education) Coordinator
   * 2025 AI/Information-centered Leading School Coordinator
@@ -44,74 +47,73 @@ Talks
 Teaching Experience
 ======
 <!-- TODO: 검토/보완 - 항목이 늘어나면 연도별로 정리하거나 _teaching/ 컬렉션의 개별 페이지로 옮길 수 있습니다 -->
-* 2025: Instructor, "미래학교 집합 직무연수" (Future School Group In-service Training)
-* 2024: Instructor, 서울교육연구정보원 정보화(AI·SW) 직무연수 (마이크로비트 지니어스키트)
-* 2024: Instructor/TF member, 강동송파 찾아가는 AIDT 교육 연수
-* 2024: Instructor, 2024 교실혁명 선도교사 집합연수 (서울대학교 사업단)
-* 2024: Instructor, 강동송파교육지원청 "학교로 찾아가는 디지털 역량 강화 연수" (가락초, 버들초, 중대초)
-* 2024: Instructor, 한국과학창의재단 2024 찾아가는 학교 연수 지원 사업
-* 2024: Instructor, 서울소프트웨어체험센터 피지컬 컴퓨팅 로봇 여름캠프 (링비트카, 햄스터봇)
-* 2023~present: Instructor, 지식샘터 "인공지능을 활용해 동화책 만들기"
-* 2023: Instructor, 전주교육대학교 에듀톤 부트캠프 "Google Colab 활용 데이터 분석 및 시각화"
-* 2023: Instructor, ATC 디지털 AI 웨비나 "생성형 AI, 무한한 상상속으로"
-* 2023: Instructor, 2023 게임리터러시 찾아가는 집합연수 제안과정
-* 2023: Guest Lecturer (서울특별시교육청 AI/SW 컨설팅 장학단 자문위원 활동 중)
-  * 잠신고 "데이터 기반 인공지능 과학 탐구 방법"
-  * 방이초 "2022 개정 교육과정에 맞춘 AI/SW 수업"
-  * 잠일초 "게임으로 기르는 디지털 시민성(미디어 리터러시)"
-  * 잠실초 "디지털 리터러시 교육 및 챗GPT 이해와 활용"
+* 2025: Instructor, "Future School" In-service Group Training
+* 2024: Instructor, Seoul Education Research & Information Institute — Informatization (AI/SW) In-service Training (micro:bit Genius Kit)
+* 2024: Instructor / TF member, Gangdong-Songpa "Visiting" AI Digital Textbook (AIDT) Training
+* 2024: Instructor, 2024 Classroom Revolution Leading Teacher Group Training (Seoul National University Program Team)
+* 2024: Instructor, Gangdong-Songpa District Office of Education "School Visit" Digital Competency Enhancement Training (Garak, Beodeul, Jungdae Elementary Schools)
+* 2024: Instructor, Korea Foundation for the Advancement of Science and Creativity (KOFAC) — 2024 Outreach School Training Support Program
+* 2024: Instructor, Seoul Software Experience Center — Physical Computing Robot Summer Camp (Ring:bit Car, Hamster Robot)
+* 2023 - present: Instructor, Jisiksaemteo (지식샘터, national teacher-lecture platform) — "Creating Picture Books with AI"
+* 2023: Instructor, Jeonju National University of Education "Eduton" Bootcamp — "Data Analysis and Visualization with Google Colab"
+* 2023: Instructor, ATC Digital AI Webinar — "Generative AI: Into Boundless Imagination"
+* 2023: Instructor, 2023 Game Literacy Outreach Training Proposal Course
+* 2023: Guest Lecturer (as part of Seoul Metropolitan Office of Education AI/SW Consulting Supervision Team activities)
+  * Jamsin High School — "Data-driven AI Scientific Inquiry Methods"
+  * Bangi Elementary School — "AI/SW Classes Aligned with the 2022 Revised National Curriculum"
+  * Jamil Elementary School — "Cultivating Digital Citizenship (Media Literacy) through Games"
+  * Jamsil Elementary School — "Digital Literacy Education and Understanding/Using ChatGPT"
 
 Service and leadership
 ======
 <!-- TODO: 검토/보완 -->
-* 2025: Member, ATC 구글 교사연구회
-* 2025: Member, 소프트웨어야 놀자 티처스랩 인공지능 교육 교사연구회
-* 2025: Reviewer, 천재교육 AIDT 현장 적합성 검토위원
-* 2025: Advisory Committee Member, YBM 콘텐츠 자문위원
-* 2024: Member, 국가환경교육 환경부 교사연구회
-* 2024: Member, 서울시교육청 AI정보교육 교사연구회
-* 2024: Member, 헬로메이플 교사연구회 / President, 헬로메이플 선도연구회
-* 2024: Reviewer, KERIS AIDT 현장적합성 검토위원
-* 2024: Judge, 학생 스마트기기 활용 학습 사례 공모전 심사위원
-* 2024: Advisory Committee Member, 서울특별시교육청 AI/SW 컨설팅 장학단
-* 2024: Advisory Committee Member, YBM 콘텐츠 자문위원 / 교과서 검토위원
-* 2024: Operating Committee Member, ATC(컴퓨팅교사협회) 서울 운영진
-* 2023: Member, 한국과학창의재단 인공지능교육 교사연구회
-* 2023: Member, KERIS 지식샘터 교사연구회
-* 2023: Member, AIEDAP 수도권역 우수 전문적 학습공동체
-* 2023: Representative Teacher, 한국과학창의재단 인공지능(AI)교육 교사연구회 A.C.E.
-* 2023: Advisory Committee Member, 서울특별시교육청 AI/SW 컨설팅 장학단
-* 2023: Advisory/Review Committee Member, YBM 콘텐츠 및 교과서 검토위원
+* 2025: Member, ATC Google Teacher Research Group
+* 2025: Member, "Let's Play with Software" Teachers Lab AI Education Teacher Research Group
+* 2025: Reviewer, Chunjae Education — AI Digital Textbook (AIDT) Field Suitability Review Committee
+* 2025: Advisory Committee Member, YBM Content Advisory Committee
+* 2024: Member, Ministry of Environment National Environmental Education Teacher Research Group
+* 2024: Member, Seoul Metropolitan Office of Education AI/Information Education Teacher Research Group
+* 2024: Member, Hello Maple Teacher Research Group / President, Hello Maple Leading Research Group
+* 2024: Reviewer, KERIS AI Digital Textbook (AIDT) Field Suitability Review Committee
+* 2024: Judge, Student Smart Device Learning Case Competition
+* 2024: Advisory Committee Member, Seoul Metropolitan Office of Education AI/SW Consulting Supervision Team
+* 2024: Advisory Committee Member, YBM Content Advisory Committee / Textbook Review Committee
+* 2024: Operating Committee Member, ATC (Association of Computing Teachers) Seoul Chapter
+* 2023: Member, Korea Foundation for the Advancement of Science and Creativity (KOFAC) — AI Education Teacher Research Group
+* 2023: Member, KERIS Jisiksaemteo Teacher Research Group
+* 2023: Member, AIEDAP Metropolitan Area Outstanding Professional Learning Community
+* 2023: Representative Teacher, KOFAC AI Education Teacher Research Group A.C.E.
+* 2023: Advisory Committee Member, Seoul Metropolitan Office of Education AI/SW Consulting Supervision Team
+* 2023: Advisory/Review Committee Member, YBM Content and Textbook Review Committee
 
 Activities
 ======
 <!-- TODO: 검토/보완 -->
-* 2025: 2025 ACE사업 국제공동수업 교류
-* 2025: 2025 수업전성기 연구교사
-* 2025: 서울시교육청 세계시민교육 선도교사
-* 2025: 천재교육 T 멘토
-* 2025: ATC 교실속 게임리터러시 참여
-* 2025: 교육부 디지털 새싹 운영 (동국대학교 사업단)
-* 2025: 강동송파 IAM 빛깔있는 교육콘서트 수업 사례 나눔
-* 2024: 2024 인도네시아 디지털 해외 교육봉사 파견 (APEX)
-* 2024: 한국콘텐츠진흥원 게임리터러시 연구교사 및 강사
-* 2024: 2024 교실혁명 선도교사
-* 2024: AI·에듀테크 선도교사 (강동송파교육청)
-* 2024: 인도네시아-교육협력 프로젝트(ACE) 국제공동수업 진행
-* 2024: APEC 국제교육협력단(알콥) 교사 16기
-* 2024: 2024 초등수업연구 실천교사
-* 2024: 한국콘텐츠진흥원 "찾아가는 게임문화교실" 협력교사
-* 2024: 천재교육 T 멘토 교사
-* 2024: 늘봄학교 프로그램 수업안 개발 참여
-* 2024: 한국언론진흥재단 미디어교육 운영학교 담당교사
-* 2024: 교내 데이터 분석 및 시각화 동아리 "데이터 피플(DATA People)" 운영
-* 2024: 강동송파 IAM 빛깔있는 교육콘서트 수업 사례 나눔 (크롬북을 활용한 국제공동수업 사례)
-* 2024: 2024 교실 속 게임리터러시 고학년 참여
-* 2023: 교육부 지식샘터 강좌 운영 교사연구회
-* 2023: AIEDAP 수도권역 시범사업단 - 인공지능 융합 모형 개발 강의 촬영
-* 2023: 한국콘텐츠진흥원 게임리터러시 연구교사 및 강사
-* 2023: 2023 교실 속 게임리터러시 저학년 참여
-* 2023: D.N.A. 기반 ePBL 전문강사 심화 직무연수 이수
-* 2023: 교육부 디지털 새싹 가을학기, 겨울학기 진행 (언플러그드, 피지컬 컴퓨팅 로봇 활용)
-* 2023: 강동송파 IAM 빛깔있는 교육콘서트 2회 수업 공개 ("에듀테크를 활용한 자연관찰 수업" 등)
-
+* 2025: ACE Program International Joint Class Exchange
+* 2025: "Golden Age of Teaching" Research Teacher
+* 2025: Seoul Metropolitan Office of Education Global Citizenship Education Leading Teacher
+* 2025: Chunjae Education "T-Mentor"
+* 2025: ATC "Game Literacy in the Classroom" Participant
+* 2025: Ministry of Education "Digital Sprout" Program Operation (Dongguk University Program Team)
+* 2025: Gangdong-Songpa "IAM Colorful Education Concert" — Class Case Sharing
+* 2024: Indonesia Digital Overseas Education Volunteer Dispatch (APEX)
+* 2024: Korea Creative Content Agency (KOCCA) — Game Literacy Research Teacher and Instructor
+* 2024: 2024 Classroom Revolution Leading Teacher
+* 2024: AI/EdTech Leading Teacher (Gangdong-Songpa District Office of Education)
+* 2024: Indonesia-Korea Education Cooperation Project (ACE) — International Joint Class
+* 2024: APEC International Education Cooperation Corps (ALCoB), 16th Cohort
+* 2024: 2024 Elementary Classroom Research Practice Teacher
+* 2024: KOCCA "Visiting Game Culture Classroom" Cooperating Teacher
+* 2024: Chunjae Education "T-Mentor" Teacher
+* 2024: Neulbom School Program — Lesson Plan Development
+* 2024: Korea Press Foundation — Media Education Operating School Coordinator
+* 2024: Founder/Organizer, In-school Data Analysis & Visualization Club "Data People"
+* 2024: Gangdong-Songpa "IAM Colorful Education Concert" — Class Case Sharing (International joint class using Chromebooks)
+* 2024: 2024 "Game Literacy in the Classroom" Participant (Upper Grades)
+* 2023: Ministry of Education Jisiksaemteo Lecture Operation Teacher Research Group
+* 2023: AIEDAP Metropolitan Area Pilot Program — AI Convergence Model Development Lecture Recording
+* 2023: KOCCA — Game Literacy Research Teacher and Instructor
+* 2023: 2023 "Game Literacy in the Classroom" Participant (Lower Grades)
+* 2023: Completed D.N.A.-based ePBL Expert Instructor Advanced In-service Training
+* 2023: Ministry of Education "Digital Sprout" Program, Fall/Winter Semesters (Unplugged Computing, Physical Computing Robots)
+* 2023: Gangdong-Songpa "IAM Colorful Education Concert" — 2 Open Classes (incl. "Nature Observation Class Using EdTech")
