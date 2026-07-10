@@ -22,12 +22,9 @@ Research Interests
 
 Publications
 ======
-<!-- TODO: 아직 출판된 논문 없음. 논문이 생기면 아래처럼 _publications/ 컬렉션의 항목을 추가하고,
-     여기에는 링크 목록만 추가하거나, /publications 페이지로 안내하는 문장으로 대체 가능 -->
+- Hwang, J., & Chun, W. (2026). The Effects of AI-Driven Reflective Journal Feedback on Elementary School Students' Social Emotional Competence. *Journal of The Korean Association of Information Education*, 30(1), 1-10.
 
-<!--
-- TODO: 논문 제목 (연도)
--->
+See the [Publications page](/publications/) for full details.
 
 Talks
 ======
