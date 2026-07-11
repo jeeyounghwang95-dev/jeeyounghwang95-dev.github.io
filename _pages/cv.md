@@ -41,11 +41,11 @@ Research
   * Role: Principal Investigator
   * Keywords: Physical AI education, AI literacy education
   * Description: Building a research ecosystem for AI education among informatics teachers; preparatory research for advancing from physical computing education to physical AI education.
-* 2026.6 - 2026.8: "Development of Supplementary Learning Materials for Elementary Informatics Education"
+* 2026.6 - 2026.8: "Development of Supplementary Learning Materials for Elementary Computer Science Education"
   * Funding/Commissioning Agency: Korea Foundation for the Advancement of Science and Creativity (KOFAC)
   * Role: Co-Investigator
   * Keywords: Informatics education, Informatics textbooks
-  * Description: Developed supplementary learning materials to address learning gaps in 6th-grade elementary informatics education arising from the phased implementation of the 2022 Revised National Curriculum.
+  * Description: Developed supplementary learning materials to address learning gaps in 6th-grade elementary CS education arising from the phased implementation of the 2022 Revised National Curriculum.
 
 Publications
 ======
