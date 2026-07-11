@@ -22,8 +22,6 @@ Work experience
 ======
 * 2026.3 - present: Elementary School Teacher, Seoul Haenuri Elementary School (서울해누리초등학교)
 * 2020.3 - 2026.2: Elementary School Teacher, Seoul Jamil Elementary School (서울잠일초등학교)
-  * 2025: Grade 4 Homeroom Teacher
-  * Future Education (AI/SW Education) Coordinator
   * 2025 AI/Information-centered Leading School Coordinator
   * 2024 AI/Information-centered Leading School Coordinator
   * 2024 "Exciting AI Classroom" School Coordinator
